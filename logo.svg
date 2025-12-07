@@ -1,0 +1,45 @@
+<svg width="520" height="180" viewBox="0 0 520 180" xmlns="http://www.w3.org/2000/svg">
+  <!-- Icon Circle (Red) -->
+  <circle cx="100" cy="90" r="70" fill="#E74C3C"/>
+
+  <!-- Shadow R (Bold, centered, slightly offset) -->
+  <text x="100" y="118"
+        text-anchor="middle"
+        font-family="Arial Black, sans-serif"
+        font-size="75"
+        font-weight="600"
+        fill="rgba(0,0,0,0.35)"
+        transform="translate(6,6)">
+    R
+  </text>
+
+  <!-- Main R (Bold, centered) -->
+  <text x="100" y="118"
+        text-anchor="middle"
+        font-weight="600"
+        font-family="Arial Black, sans-serif"
+        font-size="80"
+        fill="#FFFFFF">
+    R
+  </text>
+
+  <!-- Divider line -->
+  <line x1="180" y1="45" x2="180" y2="140" stroke="#CCCCCC" stroke-width="2"/>
+
+  <!-- Wordmark -->
+  <text x="210" y="95"
+        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="48"
+        font-weight="700">
+    rep<tspan fill="#E74C3C">range</tspan>
+  </text>
+
+  <!-- Tagline -->
+  <text x="213" y="130"
+        font-family="system-ui, sans-serif"
+        font-size="16"
+        fill="#777777"
+        letter-spacing="3">
+    TRACK • LIFT • PROGRESS
+  </text>
+</svg>

@@ -1,0 +1,16 @@
+{
+  "name": "reprange-landing",
+  "version": "1.0.0",
+  "description": "Landing page for Rep Range - Your AI Fitness Coach",
+  "scripts": {
+    "dev": "npx http-server -p 8000 -o",
+    "serve": "npx http-server -p 8000"
+  },
+  "keywords": [
+    "landing-page",
+    "fitness",
+    "ai-coach"
+  ],
+  "author": "",
+  "license": "ISC"
+}
